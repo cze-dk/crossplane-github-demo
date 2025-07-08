@@ -1,0 +1,17 @@
+name: crossplane-github-demo
+slug: crossplane-github-demo
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: none
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/cze-dk/crossplane-github-demo'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
