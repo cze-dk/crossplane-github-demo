@@ -3,7 +3,7 @@ slug: crossplane-github-demo
 description: null
 configVersion: 1
 typeId: SERVICE
-ownerId: none
+ownerId: 
 fields:
   tier: 4
   isMonorepoProject: false
